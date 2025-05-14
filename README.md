@@ -1,6 +1,6 @@
 # The Wild Oasis Website
 
-The Wild Oasis cabin hotel website built with [Next.js](https://nextjs.org/). The project showcases a modern, responsive SSR website for managing cabin reservations, guest profiles, and more.
+The Wild Oasis cabin hotel website built with [Next.js](https://nextjs.org/). The project showcases a modern, SSG/SSR responsive website for managing cabin reservations, guest profiles, and more.
 
 ## Features
 
